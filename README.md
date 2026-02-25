@@ -1,5 +1,8 @@
-```markdown
 # 青玄 | CyanX
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=青玄+CyanX;WELCOME+TO+THE+DIGITAL+ABYSS;SYSTEM+ONLINE" />
+</p>
 
 [![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)](https://vitejs.dev/)
 [![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)](https://react.dev/)
@@ -136,7 +139,6 @@ theme: {
   }
 }
 ```
-
 ---
 
 ## 🌐 部署指南
@@ -185,14 +187,14 @@ npm run build
 或连接 Git 仓库自动部署。
 
 ### Cloudflare Pages
-
+```bash
 1. 登录 Cloudflare Dashboard
 2. 进入 Pages > 创建项目
 3. 连接 GitHub 仓库
 4. 构建设置：
    - 构建命令：`npm run build`
    - 构建输出目录：`dist`
-
+```
 ---
 
 ## 🛠️ 技术栈详解
@@ -305,4 +307,3 @@ MIT License © 2026 [青玄 / CyanX](https://github.com/zjq0107)
 <p align="center">
   <sub>Built with ❤️ and ☕ by CyanX</sub>
 </p>
-```
